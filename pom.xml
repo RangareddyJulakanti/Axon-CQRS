@@ -23,7 +23,7 @@
 		<springframework.version>4.2.0.RELEASE</springframework.version>
 		<jackson.version>2.5.3</jackson.version>
         <slf4jVersion>1.6.1</slf4jVersion>
-        <log4j2Version>2.7</log4j2Version>
+        <log4j2Version>2.13.3</log4j2Version>
         <mysqljcon.version>8.0.14</mysqljcon.version>
 	</properties>
 
